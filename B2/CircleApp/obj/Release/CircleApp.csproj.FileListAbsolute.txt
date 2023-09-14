@@ -1,0 +1,17 @@
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Release\CircleApp.exe.config
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Release\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Release\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Release\CircleLibraryRM.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Release\CircleApp.csprojResolveAssemblyReference.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Release\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Release\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Release\CircleApp.exe.config
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Release\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Release\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Release\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Release\CircleLibrary.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Release\CircleApp.csprojAssemblyReference.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Release\CircleApp.csproj.CoreCompileInputs.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Release\CircleApp.csproj.CopyComplete
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Release\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Release\CircleApp.pdb

@@ -1,0 +1,9 @@
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleLibrary\bin\Release\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleLibrary\bin\Release\CircleLibrary.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleLibrary\obj\Release\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleLibrary\obj\Release\CircleLibrary.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleLibrary\bin\Release\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleLibrary\bin\Release\CircleLibrary.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleLibrary\obj\Release\CircleLibrary.csproj.CoreCompileInputs.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleLibrary\obj\Release\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleLibrary\obj\Release\CircleLibrary.pdb

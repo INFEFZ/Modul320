@@ -1,0 +1,16 @@
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Debug\CircleApp.exe.config
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Debug\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Debug\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Debug\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Debug\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\bin\Debug\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Debug\CircleApp.exe.config
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Debug\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Debug\CircleApp.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Debug\CircleLibrary.dll
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\bin\Debug\CircleLibrary.pdb
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Debug\CircleApp.csproj.CoreCompileInputs.cache
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Debug\CircleApp.exe
+E:\01.IBZ\Modul226\10-Projekte\M226a\B1\CircleApp\obj\Debug\CircleApp.pdb
