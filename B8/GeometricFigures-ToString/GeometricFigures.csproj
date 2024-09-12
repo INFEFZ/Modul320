@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{99E2C1D4-13FF-4D03-9A8D-E6A7B663B8CA}</ProjectGuid>
+    <ProjectGuid>{5CF97252-31DD-4E69-9A51-DCA4C5FAE93C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GeometricFigures</RootNamespace>
