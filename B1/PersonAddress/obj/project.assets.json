@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cloud\\OneDrive - ipso! Bildung\\IBZ\\INFEFZ\\Modul320\\Projects\\B1-Klassendesign\\PersonAddress\\PersonAddress.csproj",
+      "projectUniqueName": "C:\\Temp\\Modul320\\B1\\PersonAddress\\PersonAddress.csproj",
       "projectName": "PersonAddress",
-      "projectPath": "C:\\Cloud\\OneDrive - ipso! Bildung\\IBZ\\INFEFZ\\Modul320\\Projects\\B1-Klassendesign\\PersonAddress\\PersonAddress.csproj",
+      "projectPath": "C:\\Temp\\Modul320\\B1\\PersonAddress\\PersonAddress.csproj",
       "packagesPath": "C:\\Users\\lm\\.nuget\\packages\\",
-      "outputPath": "C:\\Cloud\\OneDrive - ipso! Bildung\\IBZ\\INFEFZ\\Modul320\\Projects\\B1-Klassendesign\\PersonAddress\\obj\\",
+      "outputPath": "C:\\Temp\\Modul320\\B1\\PersonAddress\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

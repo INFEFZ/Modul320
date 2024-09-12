@@ -1,0 +1,15 @@
+﻿<Window x:Class="E01.Vererbung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" x:Name="btnFahren" Content="Fahren" FontSize="40" Margin="10" Click="btnFahren_Click" />
+        <Button Grid.Row="1" x:Name="btnTanken" Content="Tanken" FontSize="40" Margin="10" Click="btnTanken_Click" />
+
+    </Grid>
+</Window>

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ListCollection
-build_property.ProjectDir = C:\Cloud\OneDrive - ipso! Bildung\IBZ\INFEFZ\Modul320\Projects\B2-KomplexeDatentypen\ListCollection\
+build_property.ProjectDir = C:\Temp\Modul320\B1\ListCollection\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

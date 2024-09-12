@@ -1,0 +1,9 @@
+﻿<Window x:Class="E01.Vererbung.Animals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Farm" Height="350" Width="525" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="500" Height="85" FontWeight="Bold" FontSize="48" Click="btnStart_Click"/>
+
+    </Grid>
+</Window>

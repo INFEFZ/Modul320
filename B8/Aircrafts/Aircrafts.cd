@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Flugzeug">
+    <Position X="0.5" Y="6.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAIQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flugzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Hangar">
+    <Position X="11.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Hangar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Luftfahrzeuge" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Hubschrauber">
+    <Position X="5" Y="6.25" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAIAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hubschrauber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Luftfahrzeug">
+    <Position X="5.25" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAJAAAAIAAABAAAAAQABAAA=</HashCode>
+      <FileName>Luftfahrzeug.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Power" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Motor">
+    <Position X="1.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEACAAAAQAAAAAAAAAAAAEAAABAAA=</HashCode>
+      <FileName>Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="E02.Vererbung.Aircrafts.ConsoleApp.Zeppelin">
+    <Position X="10.25" Y="6.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zeppelin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
